@@ -24,7 +24,7 @@ This is a lab project built as part of the [Full-Stack Web Development certifica
 
 ## 🚀 Live Demo
 
-[Open Live Demo](https://dev-amira-ezz.github.io/fcc-travel-agency-page/)  
+[Open Live Demo](https://dev-amira-ezz.github.io/fcc-movie-review-page/)  
 
 ## 📚 Credits
 
